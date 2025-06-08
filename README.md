@@ -35,7 +35,7 @@ Untuk memahami lebih dalam karakteristik dataset, berikut dua visualisasi pentin
 
 Gambar berikut menunjukkan sebaran nilai `Score` dari anime dalam dataset:
 
-![Distribusi Rating Anime](distribusi_rating_anime.jpg)
+![Distribusi Rating Anime](distribusi_rating_anime.jpg)  
 
 **Insight**:
 - Mayoritas anime memiliki skor rating antara 7.8 hingga 8.5.
@@ -45,7 +45,7 @@ Gambar berikut menunjukkan sebaran nilai `Score` dari anime dalam dataset:
 
 Grafik batang horizontal berikut menampilkan sepuluh anime dengan rating tertinggi berdasarkan kolom `Score`:
 
-![Top 10 Anime Berdasarkan Rating](top_10_anime.jpg)
+![Top 10 Anime Berdasarkan Rating](top_10_anime.jpg)  
 
 **Insight**:
 - Anime seperti *Frieren: Beyond Journey's End*, *Fullmetal Alchemist: Brotherhood*, dan *Steins;Gate* termasuk yang tertinggi dengan skor hampir sempurna.
