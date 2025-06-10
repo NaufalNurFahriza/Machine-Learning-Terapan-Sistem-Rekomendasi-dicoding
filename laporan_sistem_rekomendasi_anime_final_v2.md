@@ -35,7 +35,7 @@ Untuk memahami lebih dalam karakteristik dataset, berikut dua visualisasi pentin
 
 Gambar berikut menunjukkan sebaran nilai `Score` dari anime dalam dataset:
 
-![Distribusi Rating Anime](distribusi_rating_anime.jpg)  
+![Distribusi Rating Anime](distribusi_rating_anime.jpg)   
 
 **Insight**:
 - Mayoritas anime memiliki skor rating antara 7.8 hingga 8.5.
