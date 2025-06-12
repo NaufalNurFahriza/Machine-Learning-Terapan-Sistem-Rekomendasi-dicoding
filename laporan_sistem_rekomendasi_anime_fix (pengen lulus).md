@@ -24,9 +24,15 @@ Pendekatan utama yang digunakan adalah *Content-Based Filtering*, dengan teknik:
 - Ekstraksi fitur teks menggunakan TF-IDF dari kombinasi `Genres`, `Type`, dan `Description`
 - Penghitungan kemiripan antar anime menggunakan *Cosine Similarity*
 
-## 📊 Visualisasi Data
+## Data Understanding
 
-### 1. Distribusi Rating Anime
+### Sumber Data
+
+Dataset yang digunakan dalam proyek ini bersumber dari: [Kaggle - Top Anime Dataset 2024](https://www.kaggle.com/datasets/bhavyadhingra00020/top-anime-dataset-2024)
+
+### 📊 Visualisasi Data
+
+#### 1. Distribusi Rating Anime
 
 ![Distribusi Rating Anime](distribusi_rating_anime.jpg)   
 
@@ -34,15 +40,13 @@ Pendekatan utama yang digunakan adalah *Content-Based Filtering*, dengan teknik:
 - Mayoritas anime memiliki skor rating antara 7.8 hingga 8.5.
 - Hanya sebagian kecil yang mencapai skor di atas 9.0.
 
-### 2. Top 10 Anime Berdasarkan Rating
+#### 2. Top 10 Anime Berdasarkan Rating
 
 ![Top 10 Anime Berdasarkan Rating](top_10_anime.jpg)  
 
 **Insight**:
 - Anime seperti *Frieren: Beyond Journey's End*, *Fullmetal Alchemist: Brotherhood*, dan *Steins;Gate* termasuk yang tertinggi dengan skor hampir sempurna.
 - Franchise *Gintama* mendominasi beberapa posisi dalam 10 besar.
-
-## Data Understanding
 
 Dataset terdiri dari 1000 baris dan 22 kolom.
 
